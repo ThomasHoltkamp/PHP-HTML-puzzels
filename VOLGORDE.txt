@@ -1,0 +1,23 @@
+Website waar je de pincode(TEXT) invoert die je van de JAVA spel krijgt
+JAVA > Website met IMAGE(QR)
+QR > Hidden text website
+Hidden text website > Morscode website
+Morscode website > PHP Code (Bekend stuk uit een heilig boek?)
+
+
+Puzzel index - INDEX 1
+P_003Dir - MORS CODE
+P_123SDD - HiddenText
+
+//////////////////////////
+
+P2_99dK - INDEX 2
+P2_RZWE@ - PUZZEL QR-Code => / PUZZEL  Foto's
+P2_3aSd3 - Puzzel QR-Image to Page => Steganography => Unhide
+
+//////////////////////////
+
+????? - INDEX 3
+
+???????????????????????
+P_E123daAS - END PUZZEL

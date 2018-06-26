@@ -1,0 +1,115 @@
+/* CSS DOCUMENT */
+body, html {
+  background-color: black;
+  cursor: context-menu;
+}
+
+/*** Works on common browsers ***/
+::selection {
+    background-color: #0f0f0f;
+    color: #161616;
+}
+
+/*** Mozilla based browsers ***/
+::-moz-selection {
+    background-color: #0f0f0f;
+    color: #161616;
+}
+
+/***For Other Browsers ***/
+::-o-selection {
+    background-color: #0f0f0f;
+    color: #161616;
+}
+
+::-ms-selection {
+    background-color: #0f0f0f;
+    color: #161616;
+}
+
+/*** For Webkit ***/
+::-webkit-selection {
+    background-color: #0f0f0f;
+    color: #161616;
+}
+
+h1 {
+  text-align: center;
+  color: darkred;
+  font-family: astloch;
+  font-size: 4em;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+h2:hover {
+  color: darkred;
+}
+
+p {
+  color: black;
+  text-align: center;
+  background-color: black;
+}
+
+.gehehhe {
+  color: black;
+  background-color: black;
+  text-align: center;
+}
+
+.gehehhe::selection {
+  color: black;
+  background-color: black;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 90%;
+    min-height: 90%;
+}
+body > a > p {
+  cursor: context-menu;
+}
+
+body > p > a {
+  color: white;
+  text-align: left;
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  cursor: context-menu;
+}
+
+body > p.gehehee > a {
+  color: black;
+  position: relative;
+}
+
+.selected {
+  background-color: black;
+  color: #333333;
+}
+
+.selectedd {
+  background-color: black;
+  color: #3a3a3a;
+}
+
+.dot {
+  color: white;
+  background-color: black;
+  position: fixed;
+  top: 207px;
+  left: 1058px;
+}

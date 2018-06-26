@@ -1,0 +1,1 @@
+Hier bevinden de php en images van de QR-CODE image.

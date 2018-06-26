@@ -1,0 +1,44 @@
+body {
+    background-color: #090000;
+    background-image: url("background.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 100%;
+    height: 100%;
+	overflow: hidden;
+	color: red;
+}
+form {
+	width: 310px;
+	height: 310px;
+	margin: 170px auto auto;
+    padding: 0;
+}
+#Tekst {
+	background-color: darkred;
+	color: red;
+	border: 1px solid #4d0000;
+	width: 100%;
+	text-align: center;
+}
+#Verstuur {
+	background-color: rgba(0,0,0,0);
+	color: rgba(220,0,0,1.00);
+	width: 100%;
+	text-align: center;
+	border: none;
+}
+#link, #link2{
+    margin: 400px auto auto;
+    text-align: center;
+    font-weight: bold;
+}
+.PuzzelHref{
+    text-decoration: none;
+    color: darkred;
+}
+a:hover{
+     color: red;
+}
+

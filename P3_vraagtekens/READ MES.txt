@@ -1,0 +1,9 @@
+Het goede antwoord is 9561. De eerste serie gaat over het kwadraat van het getal links. 
+Dus het kwadraat van 12 is 144, het kwadraat van 6 is 36, het kwadraat van 3 is dan 9. 
+Bij de tweede serie zoeken we naar het cijfer in het alfabet van de letter. De E is de 5de letter.
+ Het tweede getal is daarom het cijfer 5. De derde serie had vrijwel iedereen goed. Erg goed.
+ Hier waren het niet zozeer getallen, maar figuren wat je je voor moet stellen. Elke keer is het het figuur 180 graden gedraaid. 
+Het cijfer 180 graden draaien is het cijfer 6. De laatste serie is ook een referentie naar het alfabet. 
+De 5 staat voor de E, de 19 voor de S. We zochten naar het woord ESCAPE. De missende letter is de A en daarmee dus het cijfer 1. 
+Nu heb je de getallen 9561. De reden dat dat niet goed is, omdat de vraagtekens een kleur hebben die onderaan overeen moet komen. 
+Je moet de cijfers 5 en 6 dan nog omdraaien om 9651 te krijgen.

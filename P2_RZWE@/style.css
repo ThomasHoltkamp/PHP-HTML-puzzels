@@ -1,0 +1,32 @@
+body
+{
+    background-color: #090000;
+    /*background-image: url("background.jpg");*/
+    /*background-position: top;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% auto;*/
+    width: 100%;
+    height: 100%;
+    /*overflow: hidden;*/
+    color: red;
+}
+
+.img-thumbnail
+{
+    height: 400px;
+    padding: 0px;
+    background-color: #000000;
+    border: 2px solid darkred;
+
+}
+
+.col -lg-4,
+.col-md-6
+{
+    padding: 5px;
+}
+
+a:visited
+{
+    color: darkred;
+}

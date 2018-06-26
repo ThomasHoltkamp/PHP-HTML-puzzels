@@ -1,0 +1,32 @@
+body {
+    background: white;
+    width: 2800px;
+    height: 1760px;
+    margin: 0;
+}
+#imageholder {
+    width: 2800px;
+    height: 1760px;
+    margin: 0;
+}
+img {
+    width: 2800px;
+    height: 1760px;
+    position: absolute;
+    z-index: 0;
+}
+#hover{
+    width: 20px;
+    height: 60px;
+    background-color: rgba(0,0,0,0);
+    margin: 304px 0 0 1171px;
+}
+a{
+    width: 18px;
+    height: 60px;
+    position: absolute;
+    z-index: 1;
+}
+#hover:hover{
+    cursor: default;
+}
